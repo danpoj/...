@@ -36,3 +36,15 @@ searchParams: {
 // @ts-check
 // @ts-nocheck
 ```
+
+<hr/>
+
+#### Github markdown diff
+
+```diff
++ Chelsea are going to be Premier League Champions 2023/2024
+- Arsenal are going to be Premier League Champions 2023/2024
+```
+
+https://github.com/orgs/community/discussions/42489#discussioncomment-6702467
+
