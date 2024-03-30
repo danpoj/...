@@ -27,3 +27,12 @@ searchParams: {
   className='absolute inset-0 h-full'
 />
 ```
+
+<hr/>
+
+```js
+// @ts-expect-error
+// @ts-ignore
+// @ts-check
+// @ts-nocheck
+```
