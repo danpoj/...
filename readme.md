@@ -7,7 +7,9 @@ searchParams: {
 
 <hr/>
 
-```jsx
+#### input focus out `blur`
+
+```diff
 <Input
   disabled={isSearching}
   value={query}
@@ -15,9 +17,9 @@ searchParams: {
   onKeyDown={(e) => {
     if (e.key === 'Enter') search();
 
-  + if (e.key === 'Escape') {
-  +  inputRef.current?.blur();
-  +}
++   if (e.key === 'Escape') {
++   inputRef.current?.blur();
++   }
   }}
   ref={inputRef}
   className='absolute inset-0 h-full'
