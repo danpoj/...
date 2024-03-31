@@ -3,9 +3,8 @@ searchParams: {
   [key: string]: string | string[] | undefined;
 };
 ```
-`string[]`이 어디서 왔나 했더니 key값 같은경우 string 배열로 온다 
-- in `?query=hello&query=world`
-- out `{ query: [ 'hello', 'world' ] }`
+-  `?query=hello&query=world`
+-  `{ query: [ 'hello', 'world' ] }`
 
 <hr/>
 
@@ -49,3 +48,9 @@ searchParams: {
 <hr/>
 
 #### semantic search
+
+<hr/>
+
+#### experimental_taintObjectReference, experimental_taintUniqueValue
+
+https://nextjs.org/docs/app/building-your-application/data-fetching/patterns#preventing-sensitive-data-from-being-exposed-to-the-client
