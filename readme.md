@@ -54,3 +54,6 @@ searchParams: {
 #### experimental_taintObjectReference, experimental_taintUniqueValue
 
 https://nextjs.org/docs/app/building-your-application/data-fetching/patterns#preventing-sensitive-data-from-being-exposed-to-the-client
+
+#### expand vscode typescript ellipsis
+https://github.com/microsoft/TypeScript/issues/26238#issuecomment-672086446
