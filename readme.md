@@ -57,3 +57,21 @@ https://nextjs.org/docs/app/building-your-application/data-fetching/patterns#pre
 
 #### expand vscode typescript ellipsis
 https://github.com/microsoft/TypeScript/issues/26238#issuecomment-672086446
+
+
+#### markdown
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
