@@ -3,8 +3,9 @@ searchParams: {
   [key: string]: string | string[] | undefined;
 };
 ```
--  `?query=hello&query=world`
--  `{ query: [ 'hello', 'world' ] }`
+
+- `?query=hello&query=world`
+- `{ query: [ 'hello', 'world' ] }`
 
 <hr/>
 
@@ -56,8 +57,8 @@ searchParams: {
 https://nextjs.org/docs/app/building-your-application/data-fetching/patterns#preventing-sensitive-data-from-being-exposed-to-the-client
 
 #### expand vscode typescript ellipsis
-https://github.com/microsoft/TypeScript/issues/26238#issuecomment-672086446
 
+https://github.com/microsoft/TypeScript/issues/26238#issuecomment-672086446
 
 #### markdown
 
@@ -77,6 +78,7 @@ https://github.com/microsoft/TypeScript/issues/26238#issuecomment-672086446
 > Advises about risks or negative outcomes of certain actions.
 
 #### gh https://cli.github.com/
+
 ```bash
 gh repo create
 ```
@@ -84,3 +86,7 @@ gh repo create
 ```bash
 git add -p -a
 ```
+
+#### github Apps https://docs.github.com/en/apps
+
+- stale action https://github.com/actions/stale
