@@ -75,3 +75,12 @@ https://github.com/microsoft/TypeScript/issues/26238#issuecomment-672086446
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+#### gh https://cli.github.com/
+```bash
+gh repo create
+```
+
+```bash
+git add -p -a
+```
